@@ -1,1 +1,36 @@
-[]
+[{
+  "_id": {
+    "$oid": "6abd79e67e15d572440ec642"
+  },
+  "player": "Coziin",
+  "score": 4500,
+  "level": "N. Sanity beach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79ef7e15d572440ec643"
+  },
+  "player": "Majoras",
+  "score": 5200,
+  "level": "Jungle rollers",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79f87e15d572440ec644"
+  },
+  "player": "Kris",
+  "score": 3100,
+  "level": "The great hall",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd7a007e15d572440ec645"
+  },
+  "player": "Brayan",
+  "score": 4800,
+  "level": "Hog wild",
+  "__v": 0
+}]
