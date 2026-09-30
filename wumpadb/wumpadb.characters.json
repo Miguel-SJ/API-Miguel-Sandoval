@@ -1,1 +1,52 @@
-[]
+[{
+  "_id": {
+    "$oid": "6abd79497e15d572440ec63e"
+  },
+  "abilities": [
+    "Giro torbellino",
+    "Salto doble",
+    "Planchazo"
+  ],
+  "name": "Crash bandicoot",
+  "role": "Protagonista",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79507e15d572440ec63f"
+  },
+  "abilities": [
+    "Hackeo",
+    "Patineta turbo",
+    "Salto de altura"
+  ],
+  "name": "Coco bandicoot",
+  "role": "Científica",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79557e15d572440ec640"
+  },
+  "abilities": [
+    "Rayo láser",
+    "Creación de mutantes",
+    "Planeador"
+  ],
+  "name": "Neo cortex",
+  "role": "Antagonista",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd79607e15d572440ec641"
+  },
+  "abilities": [
+    "Lanzallamas",
+    "Cola de cocodrilo",
+    "Salto pesado"
+  ],
+  "name": "Dingodile",
+  "role": "Mercenario",
+  "__v": 0
+}]
