@@ -1,1 +1,36 @@
-[]
+[{
+  "_id": {
+    "$oid": "6abd787d7e15d572440ec63a"
+  },
+  "name": "N. Sanity beach",
+  "world": 1,
+  "difficulty": "Baja",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd78b07e15d572440ec63b"
+  },
+  "name": "Jungle rollers",
+  "world": 1,
+  "difficulty": "Media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd78bb7e15d572440ec63c"
+  },
+  "name": "Hog wild",
+  "world": 1,
+  "difficulty": "Media",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd78c37e15d572440ec63d"
+  },
+  "name": "The great hall",
+  "world": 3,
+  "difficulty": "Alta",
+  "__v": 0
+}]
